@@ -4,7 +4,7 @@ jdk: -openjdk8
 addons:
  sonarcloud:
   organization: frawson10
-  token: github7212000
+  token: frawson10
 script: 
 - ant build
 - sonar-scanner
